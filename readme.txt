@@ -6,3 +6,10 @@ not matter what happen, stay calm, and be a king, be a man.
 today,i have finished the thesis defence(论文答辩). of course, after,there will be more challenge. i also have to
 face my love, and be brave, and be a man, and be a king, and never let my love hand in hand with other boy.
 hehe~who knows. but just take effort. acm ,i am back! your king back!
+##time 2017/6/3
+yesterday, i have a long talk with professor WeiChangGuo. he tell me it is hard to admitted by the much better 
+univercity, which i want to go. of course, the main reason is that i lack accumulation, and english. and he 
+suggest me choose an easier school to challenge.
+and i will think about the word he said. and large probability, i will not change mu goal. but the professor's word
+let me more harest a lot. which school choosed to go is not the key problem, the main thing is that i must achieve that
+can be calm and absorbed.
