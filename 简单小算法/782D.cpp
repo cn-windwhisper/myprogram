@@ -12,6 +12,7 @@ struct XX
     int choose;
 };
 XX input[1010];
+int kegai[1010];
 char p1[22],p2[22];
 
 int cmp1(XX x,XX y)
@@ -39,47 +40,57 @@ int main()
         int repeat=1;
         int last=input[0].b;
         int can1,can2;
+        int flag1;
         for(int i=1;i<num;i++)
         {
             if(input[i].b==input[i-1].b)
                 repeat++;
-            else
-                repeat=1;
 
-            if(repeat==2)
+            if(input[i].b!=input[i-1].b||i==(num-1))
             {
-                if(input[i].b==input[i+1].b)
+                if(repeat>1)
                 {
-                    cuo=1;
-                    break;
-                }
-                else
-                {
-                    can1=1;
-                    can2=1;
-                    for(int j=0;j<num;j++)
+                    flag1=0;
+                    int left,right;
+                    if(i==(num-1)&&input[i].b==input[i-1].b)
                     {
-                        if(j==i)
-                            continue;
-                        if(input[i-1].a==input[j].a||input[i-1].a==input[j].b)
-                            can1=0;
-                        if(input[i].a==input[j].a||input[i].a==input[j].b)
-                            can2=0;
+                        left=i-repeat+1;
+                        right=i;
                     }
-                    if(can1==0&&can2==0)
+                    else
+                    {
+                        left=i-repeat;
+                        right=i-1;
+                    }
+
+
+                    for(int j=left;j<=right;j++)
+                    {
+                        kegai[j]=1;
+                        for(int k=0;k<num;k++)
+                        {
+                            if(k==j)
+                                continue;
+                            if(input[k].a==input[j].a||input[k].b==input[j].a)
+                            {
+                                kegai[j]=0;
+                                flag1++;
+                                break;
+                            }
+                        }
+                        if(kegai[j]==1)
+                        {
+                            input[j].choose=1;
+                        }
+                    }
+
+                    if(flag1>1)
                     {
                         cuo=1;
                         break;
                     }
-                    if(can1==1)
-                    {
-                        input[i-1].choose=1;
-                    }
-                    else
-                    {
-                        input[i].choose=1;
-                    }
                 }
+                repeat=1;
             }
 
         }
