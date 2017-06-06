@@ -18,3 +18,8 @@ can be calm and absorbed."
 help me be attentive. so, every time when i do not want to read the book, i should just copy the book for a while. and
 then, i should not copy the book again, if i can learn by heart
 today, i have seen mortimer, and i am very happy"
+##time 2017/6/6
+"ok, have not seen 6/5. for yeaterday i just did not go back to dormitory. mmm, of course i choose to forgive myself.
+ok, something about today. i feel well terrible. maybe always several day, i feel terrible and have no reason. and, i have 
+to stay calm and insist for a long time. so that i can do something large, which i want. ok come on! 
+have not seen mortimer~well"
