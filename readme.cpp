@@ -23,3 +23,8 @@ today, i have seen mortimer, and i am very happy"
 ok, something about today. i feel well terrible. maybe always several day, i feel terrible and have no reason. and, i have 
 to stay calm and insist for a long time. so that i can do something large, which i want. ok come on! 
 have not seen mortimer~well"
+##time 2017/6/7
+"something about math book, i believe tomorrow will have a large progess.
+something about acm, i finished the all problem of 'ouc_2017_2', i am very happy! and i believe i will be more better one day
+ans today i see mortimer! very happy!
+ok,come on now, and come on tomorrow! i believe i will beat all the pursuer of mortimer!"
