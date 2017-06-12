@@ -3,11 +3,9 @@
 
 int main()
 {
-
-    for(int i=0;i<10;i++)
-    {
-        printf("%d\n",i);
-    }
+    FILE *F1;
+    F1=fopen(".\\debug","w");
+    fprintf(F1,"hahahahaha\najjajaja\nsdfsfsafsfsa\n");
 
     return 0;
 }

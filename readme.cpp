@@ -28,3 +28,11 @@ have not seen mortimer~well"
 something about acm, i finished the all problem of 'ouc_2017_2', i am very happy! and i believe i will be more better one day
 ans today i see mortimer! very happy!
 ok,come on now, and come on tomorrow! i believe i will beat all the pursuer of mortimer!"
+##time 2017/6/12
+"long time have not update the diary. well~   
+there have only one month before DHP leave. and he tell me, the ability of English can be increased in several month, maybe 
+just only need one month, to the level of QingHua. and i believe him. i will be happy and self-confident. and do not need to
+think and talk to much, just do it is ok~
+recently, i can see mortimer~and very happy, and i will be careful and as a boy her like(even i do not know what appearance
+and character she like.)"
+##
